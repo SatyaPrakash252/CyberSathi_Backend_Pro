@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-multipart
+cryptography
+pandas
+joblib
+scikit-learn
+python-dotenv
+googletrans==4.0.0-rc1
+requests
