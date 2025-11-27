@@ -1,26 +1,12 @@
-# Python
+venv/
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-*.db
-
-# Virtual environment
-venv/
-env/
-
-# Environment variables
 .env
-fernet_pro.key
-
-# VSCode & system
+.cybersathi_pro.db
+*.db
+image/
+document/
+.ngrok2/
+.idea/
 .vscode/
-.DS_Store
-
-# Model cache
-*.joblib
-*.json
-
-# Node dependencies (for whatsapp_bridge)
-node_modules/
-whatsapp_bridge/node_modules/
+*.log
