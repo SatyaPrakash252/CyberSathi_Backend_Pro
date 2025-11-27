@@ -39,3 +39,6 @@ uvicorn backend.app:app --reload --port 8000
 - Data is stored in ./cybersathi_pro.db and model artifacts under ./models/.
 Added backend prototype notes.
 this is updated later
+
+
+# CyberSathi Backend – Commit by Satya
