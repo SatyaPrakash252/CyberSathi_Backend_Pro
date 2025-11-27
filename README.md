@@ -37,3 +37,4 @@ uvicorn backend.app:app --reload --port 8000
 - The model is a TfidfVectorizer + SGDClassifier(loss='log_loss') with partial_fit for online updates.
 - On first run, it bootstraps with a small seed dataset for reasonable initial predictions.
 - Data is stored in ./cybersathi_pro.db and model artifacts under ./models/.
+Added backend prototype notes.
